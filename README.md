@@ -9,8 +9,8 @@ This project simulates real-world retail business analysis by combining data pre
 The objective is to identify revenue drivers, loyal customers, discount impact, and operational opportunities to support data-driven decision-making.
 
 ## 3. Tech Stack
--Python (Pandas, NumPy) – Data cleaning & feature engineering
--PostgreSQL – Business analysis & SQL views
--Power BI Desktop – Dashboard visualization
--P ower Query & DAX – Data modeling and KPI calculations
--File Types – .ipynb / .py, .sql, .pbix, .pdf
+- Python (Pandas, NumPy) – Data cleaning & feature engineering
+- PostgreSQL – Business analysis & SQL views
+- Power BI Desktop – Dashboard visualization
+- P ower Query & DAX – Data modeling and KPI calculations
+- File Types – .ipynb / .py, .sql, .pbix, .pdf
